@@ -9,7 +9,7 @@ TMDb (The Movie Database) Api to retrieve data for movies and display details.
 - Install dependencies: run `npm install` in root project
 - Get API key from [here](https://www.themoviedb.org/documentation/api)
 - Add your `API_KEY` in `src/requests.js`
-- Run project: `npm run dev`
+- Run project: `npm start`
 
 ## Available Scripts
 
